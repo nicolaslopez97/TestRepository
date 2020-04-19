@@ -23,6 +23,10 @@ namespace Ejercicios.Controllers
         {
             return View();
         }
+        public ActionResult Ejercicio3()
+        {
+            return View();
+        }
 
         public ActionResult EjercicioEnlaces()
         {
